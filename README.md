@@ -10,11 +10,6 @@ The result feels like painting on an invisible digital surface floating in front
 
 ---
 
-## Demo
-(Add a GIF or video here later if you want)
-
----
-
 ## How It Works
 - The screen is divided into a virtual grid (no visible grid lines)
 - Each grid cell can be filled with a low-opacity dark overlay
