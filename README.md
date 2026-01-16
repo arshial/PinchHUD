@@ -50,7 +50,7 @@ numpy
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/gesture-grid-hud.git
+git clone https://github.com/arshial/PinchHUD/tree/main
 cd gesture-grid-hud
 ```
 
@@ -88,7 +88,7 @@ Press **Q** to quit.
 
 ## Key Parameters (Tuning)
 
-Inside `app.py`:
+Inside `Gesture.py`:
 
 ```python
 CELL = 120
