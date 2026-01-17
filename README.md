@@ -50,7 +50,7 @@ numpy
 
 ### 1) Clone the repository
 ```bash
-git clone https://github.com/arshial/PinchHUD/tree/main
+git clone https://github.com/arshial/PinchHUD.git
 cd gesture-grid-hud
 ```
 
